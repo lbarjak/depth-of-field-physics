@@ -1,14 +1,14 @@
-Format,Width (mm),Height (mm),Diagonal (mm),Normal Lens (mm),f-number for 35mm f/1.4 DOF,Aperture Diameter (mm)
-Full Frame 35mm,24.0,36.0,43.3,43,f/1.4,30.9
-APS-C Canon,14.8,22.2,26.7,27,f/0.9,30.9
-APS-C Nikon,15.7,23.6,28.4,28,f/0.9,30.9
-Micro Four Thirds,13.0,17.3,21.6,22,f/0.7,30.9
-1" sensor,8.8,13.2,15.9,16,f/0.5,30.9
-Medium Format 645,41.5,56.0,69.7,70,f/2.3,30.9
-Medium Format 6x6,56.0,56.0,79.2,79,f/2.6,30.9
-Medium Format 6x7,56.0,70.0,89.6,90,f/2.9,30.9
-Medium Format 6x9,56.0,84.0,101.1,101,f/3.3,30.9
-4x5 inch,102.0,127.0,163.2,163,f/5.3,30.9
-5x7 inch,127.0,178.0,219.2,219,f/7.1,30.9
-8x10 inch,203.0,254.0,325.4,325,f/10.5,30.9
-11x14 inch,279.4,355.6,453.0,453,f/14.7,30.9
+Format,Width (mm),Height (mm),Diagonal (mm),Normal Lens (mm),f-number for 35mm f/1.4 DOF,Aperture Diameter (mm),CoC (mm)
+1" sensor,8.8,13.2,15.9,16,f/0.5,30.9,0.011
+Micro Four Thirds,13.0,17.3,21.6,22,f/0.7,30.9,0.015
+APS-C Canon,14.8,22.2,26.7,27,f/0.9,30.9,0.018
+APS-C Nikon,15.7,23.6,28.4,28,f/0.9,30.9,0.020
+Full Frame 35mm,24.0,36.0,43.3,43,f/1.4,30.9,0.030
+Medium Format 645,41.5,56.0,69.7,70,f/2.3,30.9,0.048
+Medium Format 6x6,56.0,56.0,79.2,79,f/2.6,30.9,0.055
+Medium Format 6x7,56.0,70.0,89.6,90,f/2.9,30.9,0.062
+Medium Format 6x9,56.0,84.0,101.1,101,f/3.3,30.9,0.070
+4x5 inch,102.0,127.0,163.2,163,f/5.3,30.9,0.113
+5x7 inch,127.0,178.0,219.2,219,f/7.1,30.9,0.151
+8x10 inch,203.0,254.0,325.4,325,f/10.5,30.9,0.225
+11x14 inch,279.4,355.6,453.0,453,f/14.7,30.9,0.313
